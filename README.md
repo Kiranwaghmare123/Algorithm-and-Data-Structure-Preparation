@@ -1,19 +1,20 @@
 # Algorithm-and-Data-Structure-Preparation
 #### Understand and Learn ADS
 
-## Algorithms:
+# Algorithms:
     Definition: Algorithms are step-by-step procedures or instructions for solving a problem, usually expressed as a sequence of well-defined computational steps.
-    Properties:
-    Correctness: An algorithm should produce the correct output for every valid input.
-    Efficiency: Algorithms should be designed to execute with reasonable time and space complexity.
+
+# Properties:
+    - Correctness: An algorithm should produce the correct output for every valid input.
+    - Efficiency: Algorithms should be designed to execute with reasonable time and space complexity.
 
 # Types of Algorithms:
-    Sorting Algorithms: Arrange elements of a list in a particular order (e.g., bubble sort, merge sort, quicksort).
-    Searching Algorithms: Find the location of an element in a data structure (e.g., linear search, binary search).
-    Graph Algorithms: Solve problems on graphs, such as shortest path, minimum spanning tree, etc. (e.g., Dijkstra's algorithm, BFS, DFS).
-    Dynamic Programming: Break down a complex problem into simpler subproblems and solve each subproblem just once (e.g., Fibonacci series).
-    Greedy Algorithms: Make a series of choices, each of which looks best at the moment (e.g., Prim's algorithm for minimum spanning tree).
-    Backtracking Algorithms: Enumerate all possible solutions, recursively exploring each branch of the search space (e.g., N-Queens problem).
+    -Sorting Algorithms: Arrange elements of a list in a particular order (e.g., bubble sort, merge sort, quicksort).
+    -Searching Algorithms: Find the location of an element in a data structure (e.g., linear search, binary search).
+    -Graph Algorithms: Solve problems on graphs, such as shortest path, minimum spanning tree, etc. (e.g., Dijkstra's algorithm, BFS, DFS).
+    -Dynamic Programming: Break down a complex problem into simpler subproblems and solve each subproblem just once (e.g., Fibonacci series).
+    -Greedy Algorithms: Make a series of choices, each of which looks best at the moment (e.g., Prim's algorithm for minimum spanning tree).
+    -Backtracking Algorithms: Enumerate all possible solutions, recursively exploring each branch of the search space (e.g., N-Queens problem).
 
 # Analysis:
     Time Complexity: Measure of the amount of time an algorithm takes to execute as a function of the length of the input.
