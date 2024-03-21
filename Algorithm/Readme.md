@@ -13,6 +13,8 @@
         Renaissance and Early Modern Period:
         -European mathematicians (e.g., Fibonacci) further advanced algorithms and introduced new mathematical techniques.
         
+# Cheatsheets:
+https://algs4.cs.princeton.edu/cheatsheet/
         19th and 20th Centuries:
         -Development of modern computing machines and formalized computational methods.
         -Contributions from Gauss, Lovelace, Turing, among others.
