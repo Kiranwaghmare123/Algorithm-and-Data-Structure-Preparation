@@ -15,6 +15,7 @@
     -Dynamic Programming: Break down a complex problem into simpler subproblems and solve each subproblem just once (e.g., Fibonacci series).
     -Greedy Algorithms: Make a series of choices, each of which looks best at the moment (e.g., Prim's algorithm for minimum spanning tree).
     -Backtracking Algorithms: Enumerate all possible solutions, recursively exploring each branch of the search space (e.g., N-Queens problem).
+![image](https://github.com/Kiranwaghmare123/Algorithm-and-Data-Structure-Preparation/assets/72081819/7349caf5-003d-44e6-a20e-04d87a8ad639)
 
 # Analysis:
     Time Complexity: Measure of the amount of time an algorithm takes to execute as a function of the length of the input.
